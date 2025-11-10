@@ -1,3 +1,5 @@
+📘 [English version](README-en.md)
+
 # 🏥 Retirement Rush
 
 **Retirement Rush** é um jogo cooperativo ambientado em um asilo cheio de idosos com personalidades únicas e muitas necessidades a serem atendidas.  
