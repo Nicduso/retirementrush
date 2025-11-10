@@ -2,7 +2,7 @@
 
 # 🏥 Retirement Rush
 
-**Retirement Rush** is a cooperative game in development, inspired by the frantic and fun style of *Overcooked* — but set in a retirement home full of elderly residents with unique personalities and plenty of needs to meet.  
+**Retirement Rush** is a cooperative game set in a retirement home full of elderly residents with unique personalities and plenty of needs to meet.  
 Players take on the role of nurses working together to maintain the well-being of the residents within a time limit — cooking meals, giving out medication, handling small emergencies, and improving the nursing home as they progress.
 
 ---
